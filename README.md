@@ -1,2 +1,2 @@
 # Public_Domain_Audio_Share
-Share music between devices and listen to what is recieved.
+Share public domain music files between two android devices via bluetooth and listen to what is received.
